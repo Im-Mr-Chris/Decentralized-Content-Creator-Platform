@@ -1,4 +1,4 @@
-# work-on-me-new-music-platform-
+# Decentralized-Content-Creator-Platform
 Music artists, public speakers, authors, content creators can get anonymous feedback on their content.
 
 
